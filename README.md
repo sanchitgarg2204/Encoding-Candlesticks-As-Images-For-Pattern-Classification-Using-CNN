@@ -1,7 +1,11 @@
 # Encoding-Candlesticks-As-Images-For-Pattern-Classification-Using-CNN
+
 IMPLEMENTATION OF RESEARCH PAPER BY Jun-Hao Chen AND Yun-Cheng Tsai
+
 Objective: Implement a two-step GAF-CNN approach to automate candlestick pattern recognition by encoding time series data
+
 ABSTRACT OF RESEARCH PAPER:
+
 Candlestick charts display the high, low, opening, and closing prices in a specific period. Candlestick
 patterns emerge because human actions and reactions are patterned and continuously replicate. These
 patterns capture information on the candles. According to Thomas Bulkowski’s Encyclopedia of
